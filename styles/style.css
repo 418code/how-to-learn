@@ -27,6 +27,28 @@ div {
   /*make header parent for absolutely positioned elements*/
   position: relative;
   display: flex;
+  /*position for title*/
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header__title {
+  width: 730px;
+  margin-left: 64px;
+  line-height: 96px;
+  /*make text always on top*/
+  z-index: 42;
+}
+
+.header__heading {
+
+}
+
+.header__heading_l {
+  font-size: 102px;
+  /*semi-bold*/
+  font-weight: 600;
+  margin: 0;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
