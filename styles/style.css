@@ -42,3 +42,22 @@ div {
   margin-right: 0;
   margin-top: 80px;
 }
+
+.logo {
+  /*common for both logos*/
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.logo_place_header {
+  position: absolute;
+  width: 183px;
+  height: 32px;
+  background-image: url(../images/logo_place_header.svg);
+  /*set absolute position*/
+  top: 30px;
+  left: 64px;
+  /*make logo always on top*/
+  z-index: 42;
+}
