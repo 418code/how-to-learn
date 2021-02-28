@@ -51,6 +51,28 @@ div {
   margin: 0;
 }
 
+.header__heading_s {
+  font-size: 18px;
+  /*normal*/
+  font-weight: 400;
+  margin: 0;
+}
+
+.header__subtitle {
+  width: 388px;
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+  line-height: 25px;
+  /*make text always on top*/
+  z-index: 42;
+}
+
+.header__link {
+  text-decoration: none;
+}
+
+
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
