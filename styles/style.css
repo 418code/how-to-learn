@@ -41,17 +41,13 @@ div {
 }
 
 .header__heading {
-
-}
-
-.header__heading_l {
   font-size: 102px;
   /*semi-bold*/
   font-weight: 600;
   margin: 0;
 }
 
-.header__heading_s {
+.header__paragraph {
   font-size: 18px;
   /*normal*/
   font-weight: 400;
