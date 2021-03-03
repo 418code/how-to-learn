@@ -203,21 +203,20 @@
 
 .table {
   width: 1100px;
-  border-spacing: 0;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
 }
 
 /*kaufman*/
 .table_theme_dark {
   /*make it on top of triangle*/
   z-index: 42;
-}
-
-.table__row {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-start;
-  border-spacing: 0;
 }
 
 .table__cell {
@@ -229,8 +228,6 @@
 /*kaufman*/
 .table__cell_theme_dark {
   width: 200px;
-  color: white;
-  margin-right: 0;
   margin-top: 80px;
 }
 
@@ -244,7 +241,7 @@
 
 /*kaufman*/
 .table__heading_theme_dark {
-
+  color: white;
 }
 
 .table__text {
@@ -257,7 +254,7 @@
 
 /*kaufman*/
 .table__text_theme_dark {
-
+  color: white;
 }
 
 /*feynman*/
