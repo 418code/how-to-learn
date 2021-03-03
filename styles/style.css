@@ -169,6 +169,11 @@
 .section-title {
   width: 60%;
   text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  /*semi-bold weight*/
+  font-weight: 600;
+  margin: 0;
 }
 
 /*kaufman*/
@@ -178,20 +183,15 @@
   z-index: 42;
 }
 
-.section-title__heading {
-  line-height: 1.15;
-  font-size: 60px;
-  /*semi-bold weight*/
-  font-weight: 600;
-  margin: 0;
-}
-
-.separated-block {
-  margin-top: 20px;
-}
-
 .section-subtitle {
   width: 60%;
+  padding-top: 20px;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  /*normal font-weight*/
+  font-weight: 400;
+  margin: 0;
 }
 
 /*kaufman*/
@@ -199,15 +199,6 @@
   color: white;
   /*on top of triangle*/
   z-index: 42;
-}
-
-.section-subtitle__paragraph {
-  text-align: center;
-  line-height: 34px;
-  font-size: 24px;
-  /*normal font-weight*/
-  font-weight: 400;
-  margin: 0;
 }
 
 .table {
