@@ -15,7 +15,7 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/*header*/
+/*header section*/
 
 .header {
   height: 100vh;
@@ -72,8 +72,6 @@
   z-index: 13;
 }
 
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -107,6 +105,8 @@
 .content {
 
 }
+
+/*description section*/
 
 .description {
   display: flex;
@@ -153,6 +153,8 @@
   /*semi-bold weight*/
   font-weight: 600;
 }
+
+/*digits section*/
 
 .digits {
   display: flex;
@@ -252,7 +254,8 @@
   color: white;
 }
 
-/*feynman*/
+/*feynman section*/
+
 .feynman {
   min-height: 790px;
   position: relative;
@@ -297,7 +300,8 @@
   text-decoration: none;
 }
 
-/*kaufman*/
+/*kaufman section*/
+
 .kaufman {
   background-color: #1f1f1f;
   display: flex;
@@ -319,7 +323,8 @@
   background-size: 877px 877px;
 }
 
-/*footer*/
+/*footer section*/
+
 .footer {
   box-sizing: border-box;
   min-height: 350px;
