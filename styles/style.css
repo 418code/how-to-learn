@@ -34,34 +34,27 @@
 
 .header__title {
   width: 730px;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
   line-height: 96px;
-  /*make text always on top*/
-  z-index: 42;
-}
-
-.header__heading {
   font-size: 102px;
   /*semi-bold*/
   font-weight: 600;
-  margin: 0;
-}
-
-.header__paragraph {
-  font-size: 18px;
-  /*normal*/
-  font-weight: 400;
-  margin: 0;
+  /*make text always on top*/
+  z-index: 42;
 }
 
 .header__subtitle {
   width: 388px;
+  margin: 0;
   position: absolute;
   bottom: 30px;
   left: 64px;
-  line-height: 25px;
   /*make text always on top*/
   z-index: 42;
+  line-height: 25px;
+  font-size: 18px;
+  /*normal*/
+  font-weight: 400;
 }
 
 .header__link {
