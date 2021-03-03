@@ -130,9 +130,6 @@
 .two-columns__brief {
   width: 175px;
   line-height: 1.2;
-}
-
-.two-columns__header {
   font-size: 18px;
   /*normal weight*/
   font-weight: 400;
