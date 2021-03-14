@@ -11,4 +11,5 @@
   /*position for title*/
   flex-direction: column;
   justify-content: center;
+  overflow: hidden;
 }

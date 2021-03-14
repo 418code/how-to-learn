@@ -2,6 +2,10 @@
 
 @import url(../vendor/normalize.css);
 
+/* mix-ins */
+
+@import url(../blocks/rotation/rotation.css);
+
 /*page wrapper*/
 
 @import url(../blocks/page/page.css);
