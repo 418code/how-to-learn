@@ -1,0 +1,14 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* выше установили ограничения для секции */
+  background-color: #f2f2f2;
+  color:  #000;
+  /*make header parent for absolutely positioned elements*/
+  position: relative;
+  display: flex;
+  /*position for title*/
+  flex-direction: column;
+  justify-content: center;
+}

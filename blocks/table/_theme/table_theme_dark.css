@@ -1,0 +1,4 @@
+.table_theme_dark {
+  /*make it on top of triangle*/
+  z-index: 42;
+}
