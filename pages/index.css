@@ -27,6 +27,7 @@
 @import url(../blocks/content/content.css);
 
 /*description section*/
+/*two-columns used in oakley*/
 
 @import url(../blocks/description/description.css);
 @import url(../blocks/two-columns/two-columns.css);
@@ -56,6 +57,11 @@
 @import url(../blocks/table/__text/table__text.css);
 /*kaufman*/
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
+
+
+/*oakley section*/
+
+@import url(../blocks/oakley/oakley.css);
 
 /*feynman section*/
 
