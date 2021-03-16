@@ -4,6 +4,7 @@
 
 /* mix-ins */
 
+@import url(../blocks/transparent/transparent.css);
 @import url(../blocks/rotation/rotation.css);
 
 /*page wrapper*/
