@@ -1,6 +1,8 @@
 # Yandex Practicum web development project: sprints 1-2
 [RU](./README-RU.md)
 
+[Demo](https://bliss-code.github.io/how-to-learn/)
+
 ## Description
 
 A static multi-section page with information about learning techniques
@@ -28,5 +30,3 @@ git
 - commands: commit, log, status, diff
 - commits organization: feat, fix, refactor, docs
 - GitHub pages
-
-[Demo](https://bliss-code.github.io/how-to-learn/)
