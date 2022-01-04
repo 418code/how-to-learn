@@ -1,7 +1,7 @@
 # Yandex Practicum web development project: sprints 1-2
 [RU](./README-RU.md)
 
-[Demo](https://bliss-code.github.io/how-to-learn/)
+[Demo](https://418code.github.io/how-to-learn/)
 
 ## Description
 

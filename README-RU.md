@@ -1,7 +1,7 @@
 # Проект факультета веб разработки Яндекс Практикума: спринты 1-2
 [EN](./README.md)
 
-[Демо](https://bliss-code.github.io/how-to-learn/)
+[Демо](https://418code.github.io/how-to-learn/)
 
 
 ## Описание
