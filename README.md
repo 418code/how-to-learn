@@ -1,5 +1,4 @@
 # Yandex Practicum web development project: sprints 1-2
-[RU](./README-RU.md)
 
 [Demo](https://418code.github.io/how-to-learn/)
 
@@ -9,10 +8,9 @@ A static multi-section page with information about learning techniques
 
 ## Technologies used
 
-Semantic HTML
-
-iframe
-- YouTube API
+HTML
+- semantic
+- YouTube iframe
 
 CSS
 - display: inline, box, flex, grid
