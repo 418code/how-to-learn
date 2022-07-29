@@ -1,12 +1,8 @@
-# Yandex Practicum web development project: sprints 1-2
+## A static multi-section page with information about learning techniques
 
-[Demo](https://418code.github.io/how-to-learn/)
+[Live demo](https://418code.github.io/how-to-learn/)
 
-## Description
-
-A static multi-section page with information about learning techniques
-
-## Technologies used
+## Technologies
 
 HTML
 - semantic
@@ -18,11 +14,7 @@ CSS
 - transition
 - position: absolute, relative
 - z-index
-
-BEM
-- CSS classes organized according to Block Element Modifier system
-- Files organized with BEM nested file structure
-- CSS files imported from BEM folders with @import
+- [Block Element Modifier](http://getbem.com/introduction/) naming system
 
 git
 - commands: commit, log, status, diff
